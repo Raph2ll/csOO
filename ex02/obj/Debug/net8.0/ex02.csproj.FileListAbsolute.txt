@@ -1,0 +1,15 @@
+/home/raph2ll/projects/impact/csOO/ex02/bin/Debug/net8.0/ex02
+/home/raph2ll/projects/impact/csOO/ex02/bin/Debug/net8.0/ex02.deps.json
+/home/raph2ll/projects/impact/csOO/ex02/bin/Debug/net8.0/ex02.runtimeconfig.json
+/home/raph2ll/projects/impact/csOO/ex02/bin/Debug/net8.0/ex02.dll
+/home/raph2ll/projects/impact/csOO/ex02/bin/Debug/net8.0/ex02.pdb
+/home/raph2ll/projects/impact/csOO/ex02/obj/Debug/net8.0/ex02.GeneratedMSBuildEditorConfig.editorconfig
+/home/raph2ll/projects/impact/csOO/ex02/obj/Debug/net8.0/ex02.AssemblyInfoInputs.cache
+/home/raph2ll/projects/impact/csOO/ex02/obj/Debug/net8.0/ex02.AssemblyInfo.cs
+/home/raph2ll/projects/impact/csOO/ex02/obj/Debug/net8.0/ex02.csproj.CoreCompileInputs.cache
+/home/raph2ll/projects/impact/csOO/ex02/obj/Debug/net8.0/ex02.sourcelink.json
+/home/raph2ll/projects/impact/csOO/ex02/obj/Debug/net8.0/ex02.dll
+/home/raph2ll/projects/impact/csOO/ex02/obj/Debug/net8.0/refint/ex02.dll
+/home/raph2ll/projects/impact/csOO/ex02/obj/Debug/net8.0/ex02.pdb
+/home/raph2ll/projects/impact/csOO/ex02/obj/Debug/net8.0/ex02.genruntimeconfig.cache
+/home/raph2ll/projects/impact/csOO/ex02/obj/Debug/net8.0/ref/ex02.dll

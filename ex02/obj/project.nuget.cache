@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ztY+FGw2B+xgVvh+lktwGi6momsZPDkugvLRFMJDls+otNH69+TRzTKVg5p8omFZEdI3/NkzJACNY2WIYm3ZwA==",
+  "success": true,
+  "projectFilePath": "/home/raph2ll/projects/impact/csOO/ex02/ex02.csproj",
+  "expectedPackageFiles": [
+    "/home/raph2ll/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

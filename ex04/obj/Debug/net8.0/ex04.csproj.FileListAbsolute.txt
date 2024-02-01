@@ -1,0 +1,15 @@
+/home/raph2ll/projects/impact/csOO/ex04/obj/Debug/net8.0/ex04.GeneratedMSBuildEditorConfig.editorconfig
+/home/raph2ll/projects/impact/csOO/ex04/obj/Debug/net8.0/ex04.AssemblyInfoInputs.cache
+/home/raph2ll/projects/impact/csOO/ex04/obj/Debug/net8.0/ex04.AssemblyInfo.cs
+/home/raph2ll/projects/impact/csOO/ex04/obj/Debug/net8.0/ex04.csproj.CoreCompileInputs.cache
+/home/raph2ll/projects/impact/csOO/ex04/obj/Debug/net8.0/ex04.sourcelink.json
+/home/raph2ll/projects/impact/csOO/ex04/bin/Debug/net8.0/ex04
+/home/raph2ll/projects/impact/csOO/ex04/bin/Debug/net8.0/ex04.deps.json
+/home/raph2ll/projects/impact/csOO/ex04/bin/Debug/net8.0/ex04.runtimeconfig.json
+/home/raph2ll/projects/impact/csOO/ex04/bin/Debug/net8.0/ex04.dll
+/home/raph2ll/projects/impact/csOO/ex04/bin/Debug/net8.0/ex04.pdb
+/home/raph2ll/projects/impact/csOO/ex04/obj/Debug/net8.0/ex04.dll
+/home/raph2ll/projects/impact/csOO/ex04/obj/Debug/net8.0/refint/ex04.dll
+/home/raph2ll/projects/impact/csOO/ex04/obj/Debug/net8.0/ex04.pdb
+/home/raph2ll/projects/impact/csOO/ex04/obj/Debug/net8.0/ex04.genruntimeconfig.cache
+/home/raph2ll/projects/impact/csOO/ex04/obj/Debug/net8.0/ref/ex04.dll

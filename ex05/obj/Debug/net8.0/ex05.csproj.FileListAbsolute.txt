@@ -1,0 +1,15 @@
+/home/raph2ll/projects/impact/csOO/ex05/bin/Debug/net8.0/ex05
+/home/raph2ll/projects/impact/csOO/ex05/bin/Debug/net8.0/ex05.deps.json
+/home/raph2ll/projects/impact/csOO/ex05/bin/Debug/net8.0/ex05.runtimeconfig.json
+/home/raph2ll/projects/impact/csOO/ex05/bin/Debug/net8.0/ex05.dll
+/home/raph2ll/projects/impact/csOO/ex05/bin/Debug/net8.0/ex05.pdb
+/home/raph2ll/projects/impact/csOO/ex05/obj/Debug/net8.0/ex05.GeneratedMSBuildEditorConfig.editorconfig
+/home/raph2ll/projects/impact/csOO/ex05/obj/Debug/net8.0/ex05.AssemblyInfoInputs.cache
+/home/raph2ll/projects/impact/csOO/ex05/obj/Debug/net8.0/ex05.AssemblyInfo.cs
+/home/raph2ll/projects/impact/csOO/ex05/obj/Debug/net8.0/ex05.csproj.CoreCompileInputs.cache
+/home/raph2ll/projects/impact/csOO/ex05/obj/Debug/net8.0/ex05.sourcelink.json
+/home/raph2ll/projects/impact/csOO/ex05/obj/Debug/net8.0/ex05.dll
+/home/raph2ll/projects/impact/csOO/ex05/obj/Debug/net8.0/refint/ex05.dll
+/home/raph2ll/projects/impact/csOO/ex05/obj/Debug/net8.0/ex05.pdb
+/home/raph2ll/projects/impact/csOO/ex05/obj/Debug/net8.0/ex05.genruntimeconfig.cache
+/home/raph2ll/projects/impact/csOO/ex05/obj/Debug/net8.0/ref/ex05.dll

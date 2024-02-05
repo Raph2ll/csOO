@@ -22,11 +22,7 @@ namespace ex07
         }
         public BankAccount(int number, string holder, double balance) : this(number, holder)
         {
-            if (balance < 0)
-            {
-                throw new ArgumentException("Balance cannot be negative.");
-            }
-            Balance = balance;
+            Deposit(balance)
         }
 
         public void Deposit(double value)
@@ -44,7 +40,7 @@ namespace ex07
             {
                 throw new ArgumentException("Depoist cannot be negative.");
             }
-            Balance = (Balance - value) - 5;
+            Balance -= value + 5;
         }
 
         public override string ToString()

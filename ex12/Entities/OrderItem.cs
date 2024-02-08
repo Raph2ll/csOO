@@ -1,7 +1,5 @@
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using System.Globalization;
 
 namespace ex12.Entities
 {
@@ -21,6 +19,10 @@ namespace ex12.Entities
         {
             double ret = Quantity * Price;
             return ret;
+        }
+        public override string ToString()
+        {
+            return $"{Product.Name}, $ {Price.ToString("F2", CultureInfo.InvariantCulture)}, Quantity: {Quantity}, Subtotal: $ {SubTotal().ToString("F2", CultureInfo.InvariantCulture)}";
         }
     }
 }

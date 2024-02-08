@@ -1,4 +1,5 @@
 using System;
+using System.Text;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -37,13 +38,27 @@ namespace ex12.Entities
         public double Total()
         {
             double ret = 0;
-            
+
             foreach (OrderItem item in OrderItem)
             {
                 ret += item.SubTotal();
             }
 
             return ret;
+        }
+        public override string ToString()
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine("Order moment: " + Moment.ToString("dd/MM/yyyy HH:mm:ss"));
+            sb.AppendLine("Order status: " + Status);
+            sb.AppendLine("Client: " + Client);
+            sb.AppendLine("Order items:");
+            foreach (OrderItem item in OrderItem)
+            {
+                sb.AppendLine(item.ToString());
+            }
+            sb.AppendLine("Total price: $" + Total().ToString("F2", CultureInfo.InvariantCulture));
+            return sb.ToString();
         }
     }
 

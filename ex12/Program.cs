@@ -52,6 +52,5 @@ namespace ex12
             Console.WriteLine("ORDER SUMMARY:");
             Console.WriteLine(order);
         }
-        }
     }
 }

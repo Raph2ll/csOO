@@ -20,7 +20,7 @@ namespace ex13.Entities
     
         public override string PriceTag()
         {
-            return $"{base.Name} (used) $ {base.Price}(Manufacture date: {ManuFactureDate.ToString("dd/MM/yyyy")} )";
+            return $"{base.Name} (used) $ {base.Price} (Manufacture date: {ManuFactureDate.ToString("dd/MM/yyyy")} )";
         }
     }
 }

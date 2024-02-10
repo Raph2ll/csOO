@@ -23,7 +23,7 @@ namespace ex13.Entities
         }
         public override string PriceTag()
         {
-            return $"{base.Name} $ {base.Price}(CustomsFee fee: $ {CustomsFee} )";
+            return $"{base.Name} $ {TotalPrice()} (CustomsFee fee: $ {CustomsFee} )";
         }
     }
 }

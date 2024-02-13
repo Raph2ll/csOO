@@ -9,10 +9,14 @@ namespace ex15.Entities
     public class Account
     {
         public int Number { get; private set; }
-        public string Houlder { get; private set; }
+        public string? Houlder { get; set; } 
         public double Balance { get; private set; }
         public double WithdrawLimit { get; private set; }
 
+        public Account()
+        {
+
+        }
         public Account(int number, string houlder, double balance, double withdrawLimit)
         {
             Number = number;
@@ -21,21 +25,21 @@ namespace ex15.Entities
             WithdrawLimit = withdrawLimit;
         }
 
-        public void Deposit(double deposit)
+        public void Deposit(double amount)
         {
             Balance += amount;
         }
-        public void Withdraw(double draw)
+        public void Withdraw(double amount)
         {
-            if (draw > WithdrawLimit)
+            if (amount > WithdrawLimit)
             {
-                throw new DomainException("Reservation dates for update must be future dates");
+                throw new DomainException("The amount exceeds withdraw limit");
             }
             else if (amount > Balance)
             {
                 throw new DomainException("Not enough balance");
             }
-            
+
             Balance -= amount;
         }
     }

@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Globalization;
+using ex15.Entities.Exceptions;
 using ex15.Entities;
+
 
 namespace ex15
 {

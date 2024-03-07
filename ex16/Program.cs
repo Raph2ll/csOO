@@ -23,10 +23,9 @@ namespace ex16
                     {
                         string line = reader.ReadLine();
 
-                        // Dividir a string usando vírgulas como delimitadores
                         string[] partes = line.Split(',');
 
-                        writer.WriteLine($"{partes[0]}, {double.parse(double.Parse(partes[1]) * double.Parse(partes[2])) }");
+                        writer.WriteLine($"{partes[0]}, {double.Parse(partes[1]) * double.Parse(partes[2]) }");
                     }
                 }
 
